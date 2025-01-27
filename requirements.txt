@@ -1,0 +1,3 @@
+python-dotenv
+pdir2
+requests
